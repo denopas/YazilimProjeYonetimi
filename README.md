@@ -1,4 +1,4 @@
 # Yazılım Proje Yönetimi
 
-Yazılım proje yönetimi materyallerinin yer aldığı reopodur.
+Yazılım proje yönetimi materyallerinin yer aldığı repodur.
 
